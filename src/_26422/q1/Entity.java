@@ -3,7 +3,8 @@ package _26422.q1;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-public abstract class Entity {
+public abstract class
+Entity {
     private int id;
     private LocalDateTime createdDate;
     private LocalDateTime updatedDate;
